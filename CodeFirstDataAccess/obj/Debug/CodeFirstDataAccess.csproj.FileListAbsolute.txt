@@ -1,0 +1,15 @@
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll.config
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.pdb
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\bin\Debug\CodeFirstModel.dll
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\bin\Debug\CodeFirstModel.pdb
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.csprojAssemblyReference.cache
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.csproj.CopyComplete
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.dll
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.pdb
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstDataAccess\bin\Debug\CodeFirstModel.dll.config

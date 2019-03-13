@@ -1,0 +1,12 @@
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstModel\bin\Debug\CodeFirstModel.dll
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstModel\bin\Debug\CodeFirstModel.pdb
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstModel\obj\Debug\CodeFirstModel.csproj.CoreCompileInputs.cache
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstModel\obj\Debug\CodeFirstModel.dll
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstModel\obj\Debug\CodeFirstModel.pdb
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstModel\bin\Debug\CodeFirstModel.dll.config
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstModel\bin\Debug\EntityFramework.dll
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstModel\bin\Debug\EntityFramework.xml
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstModel\obj\Debug\CodeFirstModel.csprojAssemblyReference.cache
+C:\Users\matve\Documents\C#\Синицына\Approg_lab5\CodeFirstModel\obj\Debug\CodeFirstModel.csproj.CopyComplete
